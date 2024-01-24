@@ -1,5 +1,5 @@
 # SQL_Hero
-**Structured Query Language**
+# Structured Query Language
 1. Create and Define Databases and Tables:
  - You can create a new database to store your data.
  - Inside a database, you can create tables to organize different types of information.
