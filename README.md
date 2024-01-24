@@ -1,4 +1,5 @@
 # SQL_Hero
+![image](https://github.com/Asifekhlaque/SQL_Hero/assets/132199879/e9e75522-1735-40cf-98a2-0d672042ed1c)
 SQL (**Structured Query Language**) is a programming language used for managing and manipulating relational databases.
 ## What is use of SQL ?
 1. Create and Define Databases and Tables:
