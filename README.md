@@ -1,5 +1,6 @@
 # SQL_Hero
 # Structured Query Language
+## What is use of SQL ?
 1. Create and Define Databases and Tables:
  - You can create a new database to store your data.
  - Inside a database, you can create tables to organize different types of information.
