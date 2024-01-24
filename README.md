@@ -1,5 +1,5 @@
 # SQL_Hero
-# Structured Query Language
+SQL (**Structured Query Language**) is a programming language used for managing and manipulating relational databases.
 ## What is use of SQL ?
 1. Create and Define Databases and Tables:
  - You can create a new database to store your data.
