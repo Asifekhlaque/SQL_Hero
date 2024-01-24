@@ -14,6 +14,7 @@ SQL (**Structured Query Language**) is a programming language used for managing 
  - You can remove data from the database. For example, deleting a customer record.
 6. Manage Database Structure:
  - You can alter the structure of the database, such as adding or removing tables and columns.
+
 ```sql
  select * from all_users;
 ```
